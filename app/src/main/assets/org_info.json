@@ -1,0 +1,346 @@
+[
+  {
+    "name": "HMRC",
+    "keywords": [
+      "HMRC",
+      "Revenue",
+      "customs",
+      "rebate",
+      "tax"
+    ],
+    "domains": [
+      "gov.uk"
+    ]
+  },
+  {
+    "name": "UK Government",
+    "keywords": [
+      "Govuk"
+    ],
+    "domains": [
+      "gov.uk"
+    ]
+  },
+  {
+    "name": "NHS",
+    "keywords": [
+      "NHS",
+      "National Health Service"
+    ],
+    "domains": [
+      "nhs.uk",
+      "membra.co.uk"
+    ]
+  },
+  {
+    "name": "MyGP",
+    "keywords": [
+      "MyGP"
+    ],
+    "domains": [
+      "mygp.me",
+      "mygp.io"
+    ]
+  },
+  {
+    "name": "O2",
+    "keywords": [
+      "O2"
+    ],
+    "domains": [
+      "o2.co.uk"
+    ]
+  },
+  {
+    "name": "Vodafone",
+    "keywords": [
+      "vodafone"
+    ],
+    "domains": [
+      "vodafone.co.uk",
+      "vodafone.com"
+    ]
+  },
+  {
+    "name": "EE",
+    "keywords": [
+      "EE"
+    ],
+    "domains": [
+      "ee.co.uk"
+    ]
+  },
+  {
+    "name": "BT",
+    "keywords": [
+      "BT",
+      "British Telecom"
+    ],
+    "domains": [
+      "bt.com"
+    ]
+  },
+  {
+    "name": "HSBC",
+    "keywords": [
+      "HSBC"
+    ],
+    "domains": [
+      "hsbc.co.uk"
+    ]
+  },
+  {
+    "name": "Lloyds Bank",
+    "keywords": [
+      "Lloyds"
+    ],
+    "domains": [
+      "lloydsbank.com"
+    ]
+  },
+  {
+    "name": "TSB",
+    "keywords": [
+      "Govuk"
+    ],
+    "domains": [
+      "gov"
+    ]
+  },
+  {
+    "name": "UK",
+    "keywords": [
+      "TSB"
+    ],
+    "domains": [
+      "tsb.co.uk"
+    ]
+  },
+  {
+    "name": "Barclays Bank",
+    "keywords": [
+      "barclays"
+    ],
+    "domains": [
+      "barclays.co.uk"
+    ]
+  },
+  {
+    "name": "American Express",
+    "keywords": [
+      "Amex"
+    ],
+    "domains": [
+      "amex.co"
+    ]
+  },
+  {
+    "name": "Natwest",
+    "keywords": [
+      "Natwest"
+    ],
+    "domains": [
+      "natwest.com"
+    ]
+  },
+  {
+    "name": "Tesco Bank",
+    "keywords": [
+      "tescobank"
+    ],
+    "domains": [
+      "tescobank.com"
+    ]
+  },
+  {
+    "name": "Santander",
+    "keywords": [
+      "Santander"
+    ],
+    "domains": [
+      "santander.co.uk"
+    ]
+  },
+  {
+    "name": "Royal Mail",
+    "keywords": [
+      "Royal Mail",
+      "mail"
+    ],
+    "domains": [
+      "royalmail.com",
+      "ryml.me",
+      "postoffice.co.uk"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "keywords": [
+      "Hermes"
+    ],
+    "domains": [
+      "myhermes.co.uk",
+      "goherm.es"
+    ]
+  },
+  {
+    "name": "FedEx",
+    "keywords": [
+      "FedEx"
+    ],
+    "domains": [
+      "fedex.com"
+    ]
+  },
+  {
+    "name": "Collect+",
+    "keywords": [
+      "Collect+"
+    ],
+    "domains": [
+      "nd.uk.com"
+    ]
+  },
+  {
+    "name": "Next",
+    "keywords": [
+      "Next"
+    ],
+    "domains": [
+      "next.co"
+    ]
+  },
+  {
+    "name": "DPD",
+    "keywords": [
+      "DPD"
+    ],
+    "domains": [
+      "dpd.co.uk",
+      "dpdlocal.co.uk"
+    ]
+  },
+  {
+    "name": "DX",
+    "keywords": [
+      "DX Delivery"
+    ],
+    "domains": [
+      "mydx.uk"
+    ]
+  },
+  {
+    "name": "Parcel Force",
+    "keywords": [
+      "Parcel Force"
+    ],
+    "domains": [
+      "parcelforce.com"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "keywords": [
+      "Amazon"
+    ],
+    "domains": [
+      "amazon.com",
+      "amazon.co.uk"
+    ]
+  },
+  {
+    "name": "DHL",
+    "keywords": [
+      "DHL"
+    ],
+    "domains": [
+      "dhlparcel.co.uk",
+      "dhl.com"
+    ]
+  },
+  {
+    "name": "Argos",
+    "keywords": [
+      "Argos"
+    ],
+    "domains": [
+      "argos.co.uk"
+    ]
+  },
+  {
+    "name": "Thames Water",
+    "keywords": [
+      "Thames Water"
+    ],
+    "domains": [
+      "thameswater.co.uk"
+    ]
+  },
+  {
+    "name": "Netflix",
+    "keywords": [
+      "Netflix"
+    ],
+    "domains": [
+      "netflix.com"
+    ]
+  },
+  {
+    "name": "WhatsApp",
+    "keywords": [
+      "WhatsApp"
+    ],
+    "domains": [
+      "whatsapp.com"
+    ]
+  },
+  {
+    "name": "WalkUp",
+    "keywords": [
+      "WalkUp"
+    ],
+    "domains": [
+      "w1k.in"
+    ]
+  },
+  {
+    "name": "TikTok",
+    "keywords": [
+      "TikTok"
+    ],
+    "domains": [
+      "tiktok.com"
+    ]
+  },
+  {
+    "name": "RingGo",
+    "keywords": [
+      "RingGo"
+    ],
+    "domains": [
+      "myringgo.com"
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "keywords": [
+      "Microsoft",
+      "Xbox",
+      "Live.com"
+    ],
+    "domains": [
+      "live.com",
+      "microsoft.com",
+      "aka.ms"
+    ]
+  },
+  {
+    "name": "Authy",
+    "keywords": [
+      "Authy"
+    ],
+    "domains": [
+      "authy.com"
+    ]
+  }
+]

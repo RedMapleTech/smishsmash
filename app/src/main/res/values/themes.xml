@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SmishSmash" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/rmt_red</item>
+        <item name="colorPrimaryVariant">@color/rmt_grey</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/rmt_orange</item>
+        <item name="colorSecondaryVariant">@color/rmt_yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.SmishSmash.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.SmishSmash.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.SmishSmash.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="defaultText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/rmt_grey</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="msgText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textStyle">normal|italic</item>
+    </style>
+
+    <style name="linkStyleText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/link_blue</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textStyle">normal|italic</item>
+    </style>
+
+    <style name="warningStyleText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/rmt_red</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="unsureStyleText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/rmt_orange</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="versionText" parent="TextAppearance.AppCompat.Body2">
+        <item name="android:textColor">@color/rmt_grey</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+</resources>

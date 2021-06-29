@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="biggest_margin">10dp</dimen>
+    <dimen name="big_margin">7dp</dimen>
+    <dimen name="topMargin">2dp</dimen>
+    <dimen name="endMargin">4dp</dimen>
+    <dimen name="middleMargin">5dp</dimen>
+</resources>

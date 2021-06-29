@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Smish Smash</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+
+    <string name="message_details">Message details</string>
+    <string name="message_analysis">Message analysis</string>
+    <string name="analysis">Analysis:</string>
+    <string name="message">Message:</string>
+    <string name="matches">Matches:</string>
+    <string name="matches2">Matches</string>
+    <string name="time">time</string>
+    <string name="sender">sender</string>
+    <string name="messages_processed">Analysed:</string>
+    <string name="urls_detected">URLs Found:</string>
+    <string name="malicious_messages">Malicious Messages:</string>
+    <string name="last_analysed">Last Analysed:</string>
+    <string name="about">About</string>
+    <string name="links">Links</string>
+    <string name="version">Version</string>
+    <string name="filter">Filter:</string>
+    <string name="export">Export</string>
+    <string name="file_created">File Exported</string>
+    <string name="enable_service">Enable Service</string>
+    <string name="report">Report</string>
+    <string name="forward">Forward</string>
+    <string name="this_means_it_s_from_a_company">The message was sent from\na short code, not a number.\nSome of these can be spoofed.</string>
+    <string name="guide">Guide</string>
+    <string name="message_is_okay">The message is okay</string>
+    <string name="be_cautious_of_it">The message contains a link that cannot\nbe verified - be cautious of it</string>
+    <string name="dangerous_message">The message contains a suspicious\nweb link (URL)</string>
+    <string name="received_from_a_contact">The message was received from a\n known contact</string>
+    <string name="message_contains_a_web_link">The message contains a web link (URL)</string>
+</resources>
